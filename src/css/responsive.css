@@ -1,0 +1,11 @@
+@media (max-width: 1400px) {
+    .container .btn-fundo {
+        width: 40px;   
+        height: 40px;
+        bottom: 30%;
+    }
+
+    .container .btn-fundo .btn-dado {
+        width: 16px; 
+    }
+}
